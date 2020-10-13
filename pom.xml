@@ -31,7 +31,7 @@
 	<properties>
 		<version.org.projectlombok.lombok>1.18.6</version.org.projectlombok.lombok>
 		<version.org.json.json>20180813</version.org.json.json>
-		<version.junit.junit>4.13-beta-2</version.junit.junit>
+		<version.junit.junit>4.13.1</version.junit.junit>
 		<version.org.springframework>5.1.7.RELEASE</version.org.springframework>
 		<javax.inject.version>1</javax.inject.version>
 		<java.version>1.8</java.version>
